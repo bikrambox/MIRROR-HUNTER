@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "telejion",
+  "private_key_id": "40b14cbb1ee627be96045421cf81dde5363a97d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9EXAA2O9hu0mk\n1XXv7tsfIAg8NuPBPQKlIQHvKaThpcyQIpi/nAAHDscx71VbEvbYgcDyMhp9y2hf\nwaeoISYWifz6K7IfFuvs+r5OiPvrBbUUqskK0J2hlP49q5zYdgSlWl+Il6ns2mXm\nUjz0fmu6eXnbDli+TPQyC22pIDMZsM6yCcCxFx0WEATenzfErsQtYWKpMb98/83Q\nv1Sdj5rZRiLGC8muCarwkoWUhCvYf+5t0sxKBM0JCjfQVNpaAZ/ydgJ+rSlaIP65\nRWKrevTPti6rAm5q+i/cFGa38yr68Dy5AHIZl3DG/AzOBuhN+p47zQQEHFcJOd9s\nShhLChl7AgMBAAECggEAVG3/CEHX1Frgbh1sxzJw45tYUhto5ZgrIDZ3OKfuG14A\n1bS9ZYNyd7Rfu6rXAQ6c8N4wnXdGYTp+Z5SBHBGBgrsoH0d4CW4g+PiYF1YQuUkZ\nLht+H7g9TDTOvBdwuTEqrfSHiOXBWiXFL282DTCPRvyMMAheFM0kl1yHIelhKG0I\nQhQ8VCN+0jWuNy9IIC66q1QIm+lN2XilIl/B6OOkQH4Qt9HFAev1QCY9TkiLBE5x\nEojvuLweHOIiDF0sH5L8dkcXQZK3i7UB/ie8P/G2qJOLMTTd5ykbSxJevkLlPLj5\nCnrVmz0Oc+OhJj7Lo6Xr0YUyRH2BP6/qk/fqnZ5NkQKBgQD48lbZppA4gOdwCNaK\nahufX95puvMDszs1jeKSRQQpdYL9eyOd3jhYcsiGymnOWVcXkVk9h9HmabHgmK8w\noAzRNG2ljQ2ZDFHg/bnIjQpjwadIEXjb1VLZkFUBUXGn4xqtGTaWE4VFVCGg93mf\nwhD95rwbYytVpWATOGg6bXWE7QKBgQDCbMmAiVAFZ8FgXGR9s/KfVc6D20gT63Dg\nl8YZ3cDYIooMxBsgQCAOPluSzr2LYL2wjoktnQYkWj0lUXDuAG7HxLO6TqkNs8fk\nuYSwJcUzYr+Qd33/t1/m+bxEIzB/nXB/Bsfqs318JLicxZmZxUObMZhsrnMHQgF9\npwcx+/FzBwKBgQCIkeHle0PpS4Yr5x1TR8ypjR1l4YKJyBy2T4U5exVCbU4UIyax\n54P/udCaaZbL9iUaL8nGQKl8/wTvUrPhOBxv9JQmWxBXovOUO31dMUq+2TEdD0C/\nUPMnmc+YboasdKFgztEsWb8l/naIaNtXMk7CC3+sgqX2UUg4oxxC2WO8LQKBgQC/\nrkkq9DV0XsqDmhNo6tQ0yoAD91ikauaqRngEYGATtlmsJFsp/I6d/FSD9Fdi5kmd\nm6ka00iO5niKJjTUMJEHWqJm984ruCdHFLAAifxVoPGEGIqcZcmjCmvWMWtLJYkX\nczP97F+22O05gobg117Dzq2b2JGHgke9/cJWQTHWWQKBgC/6SoQ+DClrpCnSqHkT\nSD7wPBZgR0ozpS6gRvHB5cgX+xYvbFTsTlKhm1NsbG7x9kYzoMONDlBU29xAlqPj\nnv67s/vl+ZbXg7Cbyf40VfrySgRuFMX8NYJJsYiguD5jvSPPSpDP6bbizyYZz4G6\naj+2T+eQGlViISZ+8Hnbdrn7\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-v1ti29gq30uedhdle23qb79mhp@telejion.iam.gserviceaccount.com",
+  "client_id": "116352347535859666080",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-v1ti29gq30uedhdle23qb79mhp%40telejion.iam.gserviceaccount.com"
+}
